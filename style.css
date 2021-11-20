@@ -1,0 +1,82 @@
+.container{
+    display: block;
+     margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    }
+    .cuisine{
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    .Adobo{
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: .3in;
+        width: 50%;
+    }
+    .lumpiaa{
+        display: inline-block;
+        margin-top: .3in;
+    }
+    
+    .lumpiaw{
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: .3in;
+        width: 50%;
+    }
+    .phcuisinedes{
+        display: inline-block;
+        margin-top: .3in;
+    }
+    
+    
+    
+    
+    .riba{
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: .3in;
+        width: 50%;
+    }
+    .ribo{
+        display: inline-block;
+        margin-top: .3in;
+    }
+    
+    
+    
+    
+    
+    
+    
+    .row{
+        display:flex;
+        justify-content: center;
+    }
+    .column{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .text-Finrep{
+        display:flex;
+        justify-content: center;
+    }
+    .FINFOOD{
+        margin-right: .5in;
+        margin-left:.5in;
+    }
+    .PINFOOD{
+        margin-right: .5in;
+        margin-left: .3in;
+    }
+    .QINFOOD{
+        margin-right: .5in;
+        margin-left: .5in;
+    }
+    
